@@ -33,7 +33,7 @@ public class TestingExamsAnswers {
 		}
 
 		// Question 2
-		System.out.println("\n Question 2: What is an IDE?");
+		System.out.println("Question 2: What is an IDE?");
 		System.out.println("a. Integrated Development Environment");
 		System.out.println("b. Iranian Drone Excusion");
 		System.out.println("c. Immediate Dementia Engagement");
@@ -49,7 +49,7 @@ public class TestingExamsAnswers {
 		}
 
 		// Question 3
-		System.out.println("\n Question  3: What program is this written in?");
+		System.out.println("Question  3: What program is this written in?");
 		System.out.println("a. C++");
 		System.out.println("b. Python");
 		System.out.println("c. Robot");
@@ -65,7 +65,7 @@ public class TestingExamsAnswers {
 		}
 
 		// Question 4
-		System.out.println("\n Question 4: What is a neccessary import to track user inputs? ");
+		System.out.println("Question 4: What is a neccessary import to track user inputs? ");
 		System.out.println("a. Scanner");
 		System.out.println("b. Spanner");
 		System.out.println("c. UserInput");
@@ -81,7 +81,7 @@ public class TestingExamsAnswers {
 		}
 
 		// Question 5
-		System.out.println("\n Question 5: How would you implement a table in GUI?");
+		System.out.println("Question 5: How would you implement a table in GUI?");
 		System.out.println("a. InsertTable");
 		System.out.println("b. BigTimeTableTime");
 		System.out.println("c. JTable");
@@ -97,7 +97,7 @@ public class TestingExamsAnswers {
 		}
 
 		// Question 6
-		System.out.println("\n Question 6: If you used a JButton, how would you track whether the user clicked it or not?");
+		System.out.println("Question 6: If you used a JButton, how would you track whether the user clicked it or not?");
 		System.out.println("a. EventTrigger");
 		System.out.println("b. PressListener");
 		System.out.println("c. KeyListener");
@@ -113,7 +113,7 @@ public class TestingExamsAnswers {
 		}
 
 		// Question 7
-		System.out.println("\n Question 7: Will a Java program run mostly the same across Windows and UNIX?");
+		System.out.println("Question 7: Will a Java program run mostly the same across Windows and UNIX?");
 		System.out.println("a. Yes.");
 		System.out.println("b. No.");
 
@@ -128,7 +128,7 @@ public class TestingExamsAnswers {
 		}
 
 		// Question 8
-		System.out.println("\n Question 8: Can you write Java in an application outside of Eclipse?");
+		System.out.println("Question 8: Can you write Java in an application outside of Eclipse?");
 		System.out.println("a. No");
 		System.out.println("b. Yes");
 		in = scan.nextLine();
@@ -142,7 +142,7 @@ public class TestingExamsAnswers {
 		}
 
 		// Question 9
-		System.out.println("\n Question 9: How would you make the program print something to console?");
+		System.out.println("Question 9: How would you make the program print something to console?");
 		System.out.println("a. Print");
 		System.out.println("b. System.println");
 		System.out.println("c. System.out.println");
@@ -158,7 +158,7 @@ public class TestingExamsAnswers {
 		}
 
 		// Question 10
-		System.out.println("\n Question 10: Which word ISN'T a part of the 4 pillars of programming?");
+		System.out.println("Question 10: Which word ISN'T a part of the 4 pillars of programming?");
 		System.out.println("a. Instagramism .");
 		System.out.println("b. Polymorphism");
 		System.out.println("c. Abstraction");
